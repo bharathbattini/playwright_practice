@@ -1,0 +1,21 @@
+{
+  "name": "playwright_practice",
+  "version": "1.0.0",
+  "description": "Practicing Playwright to Automate Web Application and API",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:bharathbattini/playwright_practice.git"
+  },
+  "author": "Bharath Battini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharathbattini/playwright_practice/issues"
+  },
+  "homepage": "https://github.com/bharathbattini/playwright_practice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7"
+  }
+}
